@@ -23,8 +23,6 @@ p>span{
 
 .btn {
     background: #1153df;
-    color: lch(from black l c h);
-    border: 1px solid black;
     height: 60px;
     width: 90px;
     margin-bottom: 10px;

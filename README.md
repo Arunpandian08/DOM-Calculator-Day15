@@ -6,4 +6,4 @@
 +   multiplication(✖)
 +    division(➗)
  
- _***You can 👁️‍🗨️ see the output in***_ [netlify.com](https://a-simple-calculator-created-by-arun.netlify.app/)
+ _***You can 👁️‍🗨️ see the output in***_ [netlify.com](https://a-simple-calculator-day15-by-arun.netlify.app/)
